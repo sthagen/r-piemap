@@ -22,4 +22,4 @@ Good to kneo:
 * quality pies are best comparing with other such plots in a single view
 * so, conventions on the placement of topical groups and dimensions derive from that comparison use
 
-**Note**: The default branch is ˋdefaultˋ.
+**Note**: The default branch is `default`.
